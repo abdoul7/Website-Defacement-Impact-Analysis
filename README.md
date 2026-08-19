@@ -1,6 +1,7 @@
 
-# Website-Defacement-Impact-Analysis
-R-based statistical analysis of website # Website Defacement Data Preparation
+# Website Defacement Data Preparation
+
+An R-based data-cleaning pipeline for historical website-defacement incident data.
 
 An R-based data-cleaning pipeline for historical website-defacement incident data. This project was completed as part of the **Programming for Data Analysis (PFDA)** module at Asia Pacific University of Technology & Innovation (APU).
 
